@@ -1,10 +1,11 @@
+Arun Thakur, CS625-HW2 
 # Homework 2: Data Cleaning
 
 **Due:** Wednesday, September 20, 2023 by 11:59pm  
 
 The goal of this week's assignment is to gain experience using OpenRefine for data cleaning.  
 
-**Note:** This assignment assumes that you have already downloaded and installed [OpenRefine](https://openrefine.org) version 3.7.4 and worked through the OpenRefine tutorial from Week 2 of CS 625.
+Downloaded and installed [OpenRefine](https://openrefine.org) version 3.7.4 and worked through the OpenRefine tutorial from Week 2 of CS 625.
 
 ## Assignment
 
@@ -12,9 +13,7 @@ Write a report that describes how you carried out the tasks in Part 1 and how yo
 
 ### Report
 
-I have not provided a template, but I expect your report to be named `HW2-report.md` in your class GitHub repo and to include your name, CS625-HW2, due date, and appropriate headings and Markdown markup for clarity and neatness. You will lose points if there are many spelling/grammatical errors or your report is hard to read because of formatting issues.
 
-As for all reports, there should be a "References" section that includes links to any examples that you used in completing this assignment.
 
 ### Part 1. Data Cleaning
 
@@ -24,7 +23,7 @@ Use OpenRefine to clean the dataset of pet names so that you can answer the ques
 
 There are a couple entries where multiple pets are in the same entry. Make a decision on how to handle these cases and document it in your report.
 
-*Caution:* This is a large, messy dataset.  Clean the data as well as you can, with an eye towards being able to answer the questions in Part 2, but you are not expected to fully clean the entire dataset.
+
 
 In your report, explain the steps you took to clean the data. Include screenshots, GREL statements, etc. as needed to clearly document what you did. If you did any manual cleaning, note that and explain why you did this manually. Include enough detail so that I am convinced that you understand how to use OpenRefine.
 
@@ -40,18 +39,21 @@ When you are done cleaning the file:
 
 Use the cleaned data to answer the following questions in your report (and explain how you arrived at the answers):
 
-1. How many types (kinds) of pets are there?
-1. How many cats?
-1. How many breeds of cats?
-1. What's the most popular cat breed? How many cats are in that breed?
-1. What's the age range of the cats?
-1. What's the age range of the rabbits? (*Don't forget to look for bunny, too.*)
-1. What is the oldest pet? Give the pet's name, kind, and age.
-1. What are the top 5 most popular dog breeds? List the breed and number.
-1. What's the most popular everyday name for a dog?
-1. What's the most popular full name any pet?
+1. How many types (kinds) of pets are there? 45
+ 
+2. How many cats? 496
+3. How many breeds of cats? 82
+4. What's the most popular cat breed? How many cats are in that breed? Domestic Shorthair , Count 69
+5. What's the age range of the cats? 0.25 to 25 years
+6. What's the age range of the rabbits? (*Don't forget to look for bunny, too.*) 1.75 to 13 year
+7. What is the oldest pet? Give the pet's name, kind, and age. Dog, Name: Dino, Breed: Keeshound, Age: 30 years
+8. What are the top 5 most popular dog breeds? List the breed and number. Golden Retriever 156, Mutt 35, Labrador Retriever 
+   24, Beagle 19, Border Collie 17
+9. What's the most popular everyday name for a dog? Charlie
+10. What's the most popular full name any pet? Sophie
 
 *I do not expect everyone to have the exact same answers. Some of these will depend upon decisions you make while cleaning the data. Note in your report any cleaning decisions you made that could impact your answers.*
+Combined similar sounding names, combined Rabbits and Bunnies
 
 ## Submission
 
@@ -67,4 +69,8 @@ For this assignment, your GitHub repository should include the following files:
 Submit the URL of your report (*not the URL of your repo*) in Canvas under HW2. This should be something like  
 https<nolink>://github.com/odu-cs625-datavis/fall23-asv-*username*/blob/main/HW2-report.md
 
-*If you make changes to your report after submitting in Canvas, I will use the last commit time in your repo as your assignment submission time.*
+References: links to examples used in completing this assignment.
+https://openrefine.org/docs/manual/grelfunctions
+https://chat.openai.com/c/4f18ce9d-238f-4593-84e6-096d3ae48a90
+
+
