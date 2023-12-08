@@ -105,13 +105,9 @@ It answers the Questions - What is CVD, Why does it take place. Who is likely to
 
 ## Final Thoughts
 
-There was a great personal learning through this project. I always thought that I have a healthy regimen and hence low risk profile for CVD. But, with the data of high prevlence for 65+ Age category I felt that I 
-need to be extra careful and follow the prescription for Cholesterol, Blood Pressure and Diabetese without fail otherwise CVD is waiting to strike.
-Identification of stakeholeders - Patients, Pharma Companies, Payers (Insurance Companies) and Physicians. It has been a constant challenge for the Physicians and Pharma Companies to improve prescription adherance.
-It requires huge communication and awareness campaign to change the myths in Patient's mind about the side effects of the medicines which leads to low prescription adherance. At the same time, Payers (Health Insurance Compenies) are very keen to implement strategies to prevent CVD through lifestyle change and prescription adherance as it brings down the cost of treatment by 20 to 30 times by avoiding the hospitalization and 
-surgery for millions of patients.
+There was a great personal learning through this project. I always thought that I have a healthy regimen and hence low risk profile for CVD. But, with the data of high prevalence for 65+ Age category I felt that I need to be extra careful and follow the prescription for Cholesterol, Blood Pressure and Diabetes without fail otherwise CVD is waiting to strike. Identification of stakeholders - Patients, Pharma Companies, Payers (Insurance Companies) and Physicians. It has been a constant challenge for the Physicians and Pharma Companies to improve prescription adherence. It requires huge communication and awareness campaign to change the myths in Patient's mind about the side effects of the medicines which leads to low prescription adherence. At the same time, Payers (Health Insurance Companies) are very keen to implement strategies to prevent CVD through lifestyle change and prescription adherence as it brings down the cost of treatment by 20 to 30 times by avoiding the hospitalization and surgery for millions of patients.
 
-Keeping in mind the importance of Prescription Adherance I have made additional graphs to show the need of prescription adherance and its benefits.
+Keeping in mind the importance of Prescription Adherence I have made additional graphs to show the need of prescription adherence and its benefits.
 
 ![Blood Pressure Prescription Adherance Low](BP_Prescription_Adherance_Low.png)
 ![Cholesterol Prescription Adherance Low](Cholesterol_Prescription_Adherance_Low.png)
