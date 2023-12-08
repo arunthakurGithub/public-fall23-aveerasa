@@ -29,7 +29,7 @@ Balance rows 3988
 
 [title](https://www.example.com)
 ![alt text](image.jpg)
-![alt text](image.jpg)
+![alt text](image.png)
 
 final question that you addressed
 # What is CVD, Why is it caused, Who is likely to get it, When and How to prevent it 
@@ -68,61 +68,56 @@ Class - Cardiovascular Diseases, Risk Factors
 11. Stroke
 
 **24 Survey Questions**
-Mean dietary sodium intake (mg/day) among US adults (18+)
-Mean serum total cholesterol among US adults (20+) - Million Hearts Healthy People 2030
-Prevalence of acute myocardial infarction (heart attack) among US adults (20+)
-Prevalence of blood pressure control among US adults (18+) with hypertension (BP =130/90)
-Prevalence of blood pressure control among US adults (18+) with hypertension (BP =140/90)
-Prevalence of cholesterol screening in the past 5 years among US adults (20+)
-Prevalence of coronary heart disease among US adults (20+)
-Prevalence of current smoking among US adults (20+)
-Prevalence of diabetes among US adults (18+)
-Prevalence of heart failure among US adults (20+)
-Prevalence of hypertension (BP =130/90) among US adults (18+)
-Prevalence of hypertension (BP =140/90) among US adults (18+)
-Prevalence of hypertension awareness among US adults (18+) with hypertension (BP =130/90)
-Prevalence of hypertension awareness among US adults (18+) with hypertension (BP =140/90)
-Prevalence of hypertension medication use among US adults (18+) with hypertension (BP =130/90)
-Prevalence of hypertension medication use among US adults (18+) with hypertension (BP =140/90)
-Prevalence of hypertension medication use among US adults (18+) with hypertension (BP =140/90)
-Prevalence of obesity among US adults (20+)
-Prevalence of prehypertension (BP 120/80 - 129/80) among US adults (18+)
-Prevalence of prehypertension (BP 130/80-139/89) among US adults (18+)
-Prevalence of recommended statin therapy for cholesterol management among US adults (20+)
-Prevalence of severe hypercholesterolemia (LDL-C =190) among US adults (20+)
-Prevalence of statin use among US adults (20+) for whom statin therapy is recommended
-Prevalence of stroke among US adults (20+)
+1. Mean dietary sodium intake (mg/day) among US adults (18+)
+2. Mean serum total cholesterol among US adults (20+) - Million Hearts Healthy People 2030
+3. Prevalence of acute myocardial infarction (heart attack) among US adults (20+)
+4. Prevalence of blood pressure control among US adults (18+) with hypertension (BP =130/90)
+5. Prevalence of blood pressure control among US adults (18+) with hypertension (BP =140/90)
+6. Prevalence of cholesterol screening in the past 5 years among US adults (20+)
+7. Prevalence of coronary heart disease among US adults (20+)
+8. Prevalence of current smoking among US adults (20+)
+9. Prevalence of diabetes among US adults (18+)
+10. Prevalence of heart failure among US adults (20+)
+11. Prevalence of hypertension (BP =130/90) among US adults (18+)
+12. Prevalence of hypertension (BP =140/90) among US adults (18+)
+13. Prevalence of hypertension awareness among US adults (18+) with hypertension (BP =130/90)
+14. Prevalence of hypertension awareness among US adults (18+) with hypertension (BP =140/90)
+15. Prevalence of hypertension medication use among US adults (18+) with hypertension (BP =130/90)
+16. Prevalence of hypertension medication use among US adults (18+) with hypertension (BP =140/90)
+17. Prevalence of hypertension medication use among US adults (18+) with hypertension (BP =140/90)
+18. Prevalence of obesity among US adults (20+)
+19. Prevalence of prehypertension (BP 120/80 - 129/80) among US adults (18+)
+20. Prevalence of prehypertension (BP 130/80-139/89) among US adults (18+)
+21. Prevalence of recommended statin therapy for cholesterol management among US adults (20+)
+22. Prevalence of severe hypercholesterolemia (LDL-C =190) among US adults (20+)
+23. Prevalence of statin use among US adults (20+) for whom statin therapy is recommended
+24. Prevalence of stroke among US adults (20+)
 
 
 appropriately-sized image of your final chart
 ## CVD Time Bomb set to explode after 65
-![Tme Bomb](CVD_AgeCategory_2017-18.jpg)
-CVD Magnitude - 7m Patients, One in Three affected by CVD at 75
-
-### US Yearly Data
-
-- CVD Deaths 695,000
-
-- Heart Attacks 1.5 million
-
-- CVD Cost $239.9 billion
-  
-- Hypertension 120 million
-
-- Diabetes 37 million
-
-- High Cholesterol 25 million
-
-- Obesity 80 million Adults
-  
-![image](https://github.com/arunthakurGithub/public-fall23-aveerasa/assets/13259015/c44e2a13-1d41-4fc8-88b0-e69c464687f5)
+![Tme Bomb](CVD_AgeCategory_2017-18.png)
+CVD Magnitude - 25m Patients, One in Three affected by CVD at 75
 
 
 idiom/mark/data/encode table for the final chart (see Markdown Code for Table)
-explanation of how your final chart answers the question and how your headline fits your chart
-"Final Thoughts" section that provides a commentary on the development process, including roughly how much time you spent developing your visualization and what aspects took the most time
+
+Chart shows that CVD Bomb is a silent killer set to explode after the age of 65 when it is too late to avoid Heart Attack or Heart Failure. 
+It answers the Questions - What is CVD, Why does it take place. Who is likely to get it and When. How to prevent it.
+
+## Final Thoughts
+
+There was a great personal learning through this project. I always thought that I have a healthy regimen and hence low risk profile for CVD. But, with the data of high prevlence for 65+ Age category I felt that I 
+need to be extra careful and follow the prescription for Cholesterol, Blood Pressure and Diabetese without fail otherwise CVD is waiting to strike.
+Identification of stakeholeders - Patients, Pharma Companies, Payers (Insurance Companies) and Physicians. It has been a constant challenge for the Physicians and Pharma Companies to improve prescription adherance.
+It requires huge communication and awareness campaign to change the myths in Patient's mind about the side effects of the medicines which leads to low prescription adherance. At the same time, Payers (Health Insurance Compenies) are very keen to implement strategies to prevent CVD through lifestyle change and prescription adherance as it brings down the cost of treatment by 20 to 30 times by avoiding the hospitalization and 
+surgery for millions of patients.
+
+Keeping in mind the importance of Prescription Adherance I have made additional graphs to show the need of prescription adherance and its benefits.
+
+
+
 **References**
-(https://blog.richmond.edu/heroes/2015/08/17/the-bodhisattva-buddhisms-hero-of-wisdom-and-compassion/#:~:text=The%20Bodhisattva%20is%20an%20enlightened,stress%20of%20the%20human%20condition)
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6288566/)
 (https://millionhearts.hhs.gov/data-reports/factsheets/ABCS.html)
 (https://www.heart.org/)
