@@ -1,3 +1,5 @@
+ARUN THAKUR, UIN:01257651  CS625  DECEMBER 7, 2023       
+
 # Data Source and brief description of dataset
 The National Health and Nutrition Examination Survey (NHANES) is a program of studies designed to assess the health and nutritional status of adults and children in the United States. 
 The survey is unique in that it combines interviews and physical examinations. Indicators from this data source have been computed by personnel in CDC's Division for Heart Disease and Stroke Prevention (DHDSP). 
