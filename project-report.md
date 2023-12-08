@@ -26,12 +26,6 @@ Removed 1136 rows with: “Data not available” in Data_Value_Footnote Column P
 Statistically unstable estimates are suppressed, based on the NCHS Data Presentation Standards for Proportions: Parker JD, Talih M, Malec DJ, et al. National Center for Health 
 Balance rows 3988
 
-
-[title](https://www.example.com)
-![alt text](image.jpg)
-![alt text](image.png)
-
-
 # What is CVD, Why does it develop, Who is likely to get it, When and How to prevent it 
 1. Cholesterol deposits form plaques in the heart's arteries
 2. Plaque ruptures to form blood clot
@@ -119,22 +113,22 @@ surgery for millions of patients.
 Keeping in mind the importance of Prescription Adherance I have made additional graphs to show the need of prescription adherance and its benefits.
 
 ![Blood Pressure Prescription Adherance Low](BP_Prescription_Adherance_Low.png)
-![Cholesterol Prescription Adherance Low](Cholesterol_Prescription_Adherance_Low_at_42%.png)
+![Cholesterol Prescription Adherance Low](Cholesterol_Prescription_Adherance_Low.png)
 
 
-**References**
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6288566/)
-(https://millionhearts.hhs.gov/data-reports/factsheets/ABCS.html)
-(https://www.heart.org/)
-(https://www.nhlbi.nih.gov/)
-(https://pubmed.ncbi.nlm.nih.gov/)
-(https://www.onlinejacc.org/)
-(https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106)
-(https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613)
-(https://www.nhsinform.scot/illnesses-and-conditions/heart-and-blood-vessels/conditions/cardiovascular-disease/)
-(https://www.youtube.com/watch?v=TqNjk2td3-g)
-(https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113)
-(https://www.cdc.gov/heartdisease/facts.htm)
-(https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)
-(https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2812791/#:~:text=The%20prevalence%20of%20fatty%20streaks,%2Dyears%2Dof%2Dage)
+**References**      
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6288566/)      
+(https://millionhearts.hhs.gov/data-reports/factsheets/ABCS.html)     
+(https://www.heart.org/)        
+(https://www.nhlbi.nih.gov/)       
+(https://pubmed.ncbi.nlm.nih.gov/)      
+(https://www.onlinejacc.org/)       
+(https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106)       
+(https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/symptoms-causes/syc-20350613)         
+(https://www.nhsinform.scot/illnesses-and-conditions/heart-and-blood-vessels/conditions/cardiovascular-disease/)                 
+(https://www.youtube.com/watch?v=TqNjk2td3-g)             
+(https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113)                 
+(https://www.cdc.gov/heartdisease/facts.htm)                
+(https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)                 
+(https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)                   
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2812791/#:~:text=The%20prevalence%20of%20fatty%20streaks,%2Dyears%2Dof%2Dage)                  
