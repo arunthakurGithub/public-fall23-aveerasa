@@ -31,8 +31,8 @@ Balance rows 3988
 ![alt text](image.jpg)
 ![alt text](image.png)
 
-final question that you addressed
-# What is CVD, Why is it caused, Who is likely to get it, When and How to prevent it 
+
+# What is CVD, Why does it develop, Who is likely to get it, When and How to prevent it 
 1. Cholesterol deposits form plaques in the heart's arteries
 2. Plaque ruptures to form blood clot
 3. Clot blocks blood flow, causing a heart attack, a lack of blood flow causes the tissue in the heart muscle to die
@@ -47,12 +47,11 @@ final question that you addressed
 - Obesity
 
 **Attributes provide a comprehensive picture of the public health burden of CVDs and associated risk factors in the United States**
-From Year 1999 to 2017
-Age Group
-Gender
-Race/Ethnicity
-Topic – Acute Myocardial Infarction (Heart Attack), Major Cardiovascular Disease,
-Class - Cardiovascular Diseases, Risk Factors 
+- From Year 1999 to 2017
+- Age Group
+- Gender
+- Race/Ethnicity
+- Class: Cardiovascular Diseases, Risk Factors 
 
 **Topic**
 1. Major Cardiovascular Disease
@@ -94,13 +93,17 @@ Class - Cardiovascular Diseases, Risk Factors
 24. Prevalence of stroke among US adults (20+)
 
 
-appropriately-sized image of your final chart
 ## CVD Time Bomb set to explode after 65
 ![Tme Bomb](CVD_AgeCategory_2017-18.png)
 CVD Magnitude - 25m Patients, One in Three affected by CVD at 75
 
 
 idiom/mark/data/encode table for the final chart (see Markdown Code for Table)
+Idiom: Bar Chart / Mark: Line
+| Data: Attribute | Data: Attribute Type  | Encode: Channel | 
+| --- |---| --- |
+| Prevalence % |  value, quantitative | vertical spatial region (y-axis) |
+| Age Category | key, categorical  | horizontal position on a common scale (x-axis) |
 
 Chart shows that CVD Bomb is a silent killer set to explode after the age of 65 when it is too late to avoid Heart Attack or Heart Failure. 
 It answers the Questions - What is CVD, Why does it take place. Who is likely to get it and When. How to prevent it.
@@ -115,6 +118,8 @@ surgery for millions of patients.
 
 Keeping in mind the importance of Prescription Adherance I have made additional graphs to show the need of prescription adherance and its benefits.
 
+![Blood Pressure Prescription Adherance Low](BP_Prescription_Adherance_Low.png)
+![Cholesterol Prescription Adherance Low](Cholesterol_Prescription_Adherance_Low_at_42%.png)
 
 
 **References**
